@@ -1,5 +1,5 @@
 name: ceph-ansible
-summary: BotFramework-Emulator is a desktop application that allows bot developers to test and debug bots built using the BotBuilder SDK.
+summary: Ceph-Ansible, Ansible playbooks to deploy Ceph, the distributed filesystem.
 description: 
   
 adopt-info: devmode # use 'strict' once you have the right plugs and slots
